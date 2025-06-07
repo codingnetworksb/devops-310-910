@@ -1,3 +1,3 @@
 #!/bin/bash
 
-echo "The Pipeline Works!"
+echo "The Pipeline Works! Updating my config"
